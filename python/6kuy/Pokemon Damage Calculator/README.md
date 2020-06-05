@@ -19,7 +19,7 @@
 ```python
 def calculate_damage(your_type, opponent_type, attack, defense):
     
-    effectiveness = 0.5 # IDK just need /2 if class pockemon = 
+    effectiveness = 0.5 
     # If us pockemon fire 
     if your_type == 'fire':
     	if opponent_type == 'grass':
